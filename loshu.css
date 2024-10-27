@@ -1,0 +1,169 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  #container{
+    height: 178px;
+    width:180px;
+    border: 2px solid lightcyan;
+    text-align:center;
+    margin:auto;
+    margin-top:130px;
+    background-color: lightcyan;
+   
+  }
+  #one{
+   height:60px;
+    width:60px;
+    position:relative;
+    left:-60px;
+    top:-17px;
+    background-color:red;
+    text-align:center;
+  
+  
+  }
+  #two{
+    height:60px;
+    width:60px;
+    position:relative;
+    top:-33px;
+    left:60px;
+    background-color:red;
+    text-align:center;
+  
+  }
+  #three{
+    height:60px;
+    width:60px;
+    position:relative;
+    left:-60px;
+    top:-49px;
+    background-color:red;
+    text-align:center;
+  
+  }
+  #four{
+    height:60px;
+    width:60px;
+    position:relative;
+    top:-305px;
+    left:60px;
+    background-color:red;
+    text-align:center;
+  
+  }
+  #five{
+    height:60px;
+    width:60px;
+    position:relative;
+     top:-261px; 
+    left:60px; 
+    background-color:yellow;
+    text-align:center;
+  
+  }
+  #six{
+    height:60px;
+    width:60px;
+    position:relative;
+    top:-217px; 
+    left:60px; 
+    background-color:orange;
+    text-align:center;
+  
+  }
+  #seven{
+    height:60px;
+    width:60px;
+    position:relative;
+    top:-473px;
+    left:180px;
+    background-color:orange;
+    text-align:center;
+  
+  }
+  #eight{
+    height:60px;
+    width:60px;
+    position:relative;
+    top:-489px; 
+    left:60px; 
+    background-color:orange;
+    text-align:center;
+  
+  }
+  #nine{
+    height:60px;
+    width:60px;
+    position:relative;
+    top:-506px; 
+    left:180px; 
+    background-color:orange;
+    text-align:center;
+  
+  }
+  h1{
+    text-align:center;
+    font-style: italic;
+    color:yellow
+  }
+  #text{
+  
+    height: 25px;
+    color:red;
+    background-color: yellow;
+    border:2px yellow solid;
+    margin-left:80px;
+    padding:auto;
+    
+  
+  }
+  #number{
+    height: 30px;;
+    color:red;
+    background-color: yellow;
+    border:2px yellow solid;
+    margin-left:40px;
+    width:150px;
+    font-size:20px;
+    
+  }
+  #btn{
+    display: block;
+    color:white;
+    background-color:black;
+    border:2px yellow solid;
+    height:40px;
+    margin:auto;
+    width:200px;
+    margin-top:20px;
+    
+  }
+  #clear{
+    display: block;
+    color:white;
+    background-color:black;
+    border:2px yellow solid;
+    height:40px;
+    width:130px;
+    margin:auto;
+    margin-top:30px;
+  
+  }
+  body{
+    background-color:lightblue;
+  }
+  #box{
+    text-align:center;
+    margin:auto;
+  }
+  
+  
+  @media (max-width: 576px){
+    .input-t{
+      margin-top: 20px;
+      width: 150px;
+      margin-right: 40px;
+    }
+  }
